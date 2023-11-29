@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CurrencyConverter</string>
+    <string name="app_logo" />
+    <string name="amountToConvert">AMT</string>
+</resources>
